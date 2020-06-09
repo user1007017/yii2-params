@@ -1,5 +1,5 @@
 {
-    "name": "fgh151/yii2-params",
+    "name": "user1007017/yii2-params",
     "version": "1.0.5",
     "description": "Yii2 params files managment",
     "keywords": ["yii2", "params"],
@@ -26,7 +26,7 @@
     },
     "autoload": {
         "psr-4": {
-            "fgh151\\modules\\params\\": ""
+            "user1007017\\modules\\params\\": ""
         }
     }
 }
