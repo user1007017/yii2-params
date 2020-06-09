@@ -37,7 +37,7 @@ $content_debug = null;
                 break;
             case 'pauseMessage':
                 $content_abwesenheiten .= $form->field($model, $attribute)->widget(Summernote::class, [
-                    'options' => ['placeholder' => 'Das Yoga findet nicht statt, weil ich Ferien habe']
+                    'options' => ['placeholder' => 'Das ... findet nicht statt, weil ich Ferien habe']
                 ]);
                 break;
             case 'maxTeilnehmer':
